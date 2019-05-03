@@ -1,0 +1,20 @@
+{
+  "app":{
+    "tittle":"Framework",
+    "version":"1.0"
+  },
+  "dbconf_pro":{
+    "driver":"mysql",
+    "dbhost":"localhost",
+    "dbuser":"jpablo_framework",
+    "dbpass":"linuxlinux",
+    "dbname":"jpablo_framework"
+  },
+  "dbconf_dev":{
+    "driver":"mysql",
+    "dbhost":"172.17.0.2",
+    "dbuser":"root",
+    "dbpass":"linuxlinux",
+    "dbname":"jpablo_todo"
+  }
+}
